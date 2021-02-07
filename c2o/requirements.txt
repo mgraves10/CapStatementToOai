@@ -1,0 +1,3 @@
+fhir.resources==6.0.0
+openapi-core==0.13.5
+openapi_schema_pydantic
